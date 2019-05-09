@@ -28,11 +28,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 Please report issues using the [Github issue tool](../../issues).
 
-- tested with YOOtheme Pro 1.20 beta, might not work with earlier versions
-
-## To-do
-
-- digit grouping delimiter
+- not compatible with YOOtheme Pro 1.20+, for the newest version see [master branch](https://github.com/forrestkirby/counter-element/tree/master)
 
 ## About
 
